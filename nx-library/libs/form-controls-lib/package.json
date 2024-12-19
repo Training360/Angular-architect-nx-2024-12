@@ -1,0 +1,11 @@
+{
+  "name": "form-controls-lib",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^19.0.0",
+    "@angular/core": "^19.0.0",
+    "bootstrap": "^5.3.3",
+    "font-awesome": "4.7.0"
+  },
+  "sideEffects": false
+}
